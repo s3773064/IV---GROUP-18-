@@ -77,7 +77,12 @@ tr:nth-child(even) {
     <td><a href="link">Name</a></td>
     <td><a href="link">Recording00</a></td>
     <td><a href="">Actions00</a></td>
-    
+      </tr>
+   <tr>
+    <td>09/04/2020</td>
+    <td><a href="link">Name</a></td>
+    <td><a href="link">Recording00</a></td>
+    <td><a href="">Actions00</a></td>
 </table>
 
 </body>
