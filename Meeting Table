@@ -18,6 +18,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+<title> Agenda </title>
 </head>
 <body>
 
