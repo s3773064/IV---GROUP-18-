@@ -18,7 +18,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</title>
 </head>
 <body>
 
@@ -45,65 +44,40 @@ tr:nth-child(even) {
    </tr>
    <tr>
     <td>14/04/2020</td>
-    <td><a href="https://docs.google.com/document/d/17PU5VsNZNePR3lFPqGP6UZ29UkIgUXNhWZiPzknC73k/edit?usp=sharing">Project Ideas & IT Technologies</a></td>
+    <td><a href="https://docs.google.com/document/d/17PU5VsNZNePR3lFPqGP6UZ29UkIgUXNhWZiPzknC73k/edit?usp=sharing">Project Idea and IT Technologies</a></td>
     <td><a href="https://web.microsoftstream.com/video/23def3eb-0cfe-48e5-9ffe-3358fe85f40b">Recording03</a></td>
     <td><a href="https://docs.google.com/document/d/1ajz3-5iZcfYEvXKAVN4ZX9Zm_5TWPhmz9iW3MNBQ0Xc/edit?usp=sharing">Actions03</a></td>
     </tr>
    <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
-     </tr>
-   <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
+    <td>17/04/2020</td>
+    <td><a href="https://docs.google.com/document/d/1vSiRwCehvrCrBhH_2-jyPs_a8zCzyITfCCPmI6F0iNk/edit?usp=sharing">IT Interview</a></td>
+    <td><a href="https://web.microsoftstream.com/video/97b7ae4e-b253-413b-b111-53769e453a60">Recording04</a></td>
+    <td><a href="https://docs.google.com/document/d/1ajz3-5iZcfYEvXKAVN4ZX9Zm_5TWPhmz9iW3MNBQ0Xc/edit?usp=sharing">Actions04</a></td>
     </tr>
    <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
+    <td>21/04/2020</td>
+    <td><a href="https://docs.google.com/document/d/1X7d0HUyos0nN08sp8tEjqiA8UeRB-sM1FdaNHwtWhQM/edit?usp=sharing">Name</a></td>
+    <td><a href="link">Recording00</a></td>
+    <td><a href="https://docs.google.com/document/d/1ajz3-5iZcfYEvXKAVN4ZX9Zm_5TWPhmz9iW3MNBQ0Xc/edit?usp=sharing">Actions05</a></td>
     </tr>
    <tr>
-   <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
+    <td>09/04/2020</td>
+    <td><a href="link">Meeting </a></td>
+    <td><a href="link">Recording00</a></td>
+    <td><a href="">Actions00</a></td>
     </tr>
    <tr>
-   <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
+    <td>09/04/2020</td>
+    <td><a href="link">Name</a></td>
+    <td><a href="link">Recording00</a></td>
+    <td><a href="">Actions00</a></td>
     </tr>
    <tr>
-   <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
-    </tr>
-   <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
-    </tr>
-   <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
-    </tr>
-   <tr>
-    <td>00/04/2020</td>
-    <td><a href="INSERT LINK">NAME</a></td>
-    <td><a href="INSERT LINK">RECORDING00</a></td>
-    <td><a href="INSERT LINK">ACTIONS00</a></td>
-    </tr>
-   <tr>
+    <td>09/04/2020</td>
+    <td><a href="link">Name</a></td>
+    <td><a href="link">Recording00</a></td>
+    <td><a href="">Actions00</a></td>
+    
 </table>
 
 </body>
