@@ -1,0 +1,44 @@
+<p>Machine Learning is understood as a branch of Artificial Intelligence and is usually divided in two categories: Strong and weak Artificial Intelligence. </p>
+
+<p>The ultimate objective for machine learning is to create strong AI, which are algorithms with ability to improve and learn from its own experience. The machine would learn from new information acquired through its own algorithms, and, before the next prediction or decision, the machine updates its algorithm.</p>
+
+<p>This high level of machine learning still a bit obscure to us, but industry leaders have been very keen on its development, resulting in a lot of progress in artificial intelligence in recent years.</p>
+
+<p>Meanwhile, the use of weak AI has increased significantly in many industries. Weak AI is defined as algorithms trained trough data input to perform specify tasks. Differently from strong AI, weak AI does not have capacity to learn from its own experience and its capabilities will remain the same unless there is human interference. 
+The performance enhancement for these algorithms is done by humans analysing new data and implementing new algorithms modelling in the machine. 
+This technique is called reinforcement learning and it is different from the process that happens with strong AI, which is called unsupervised learning.</p>
+
+<p>An example of Strong AI is the AlphaGo software. This computer program was developed to play the ancient Chinese board game called Go.
+Go is considered one of the hardest board games because of the number of different possible strategies that can be used and created during a game. Therefore, there are endless ways to win a game and it creates the challenge to write a computer program capable of winning against an expert player.<br>
+AlphaGo was trained with information from other games played by expert players. After it had enough information to play a game, the program played numerous rounds against itself and kept on learning new strategies from each of them. <br>
+This is the reason that AlphaGo can be classified as a strong artificial intelligence machine. Even though it is a narrow intelligent program, it does have the capability to learn from its own information and update its algorithms to perform better. AlphaGo had its first win against an expert player in October 2015 and it is considered a milestone in the research field of artificial intelligence.</p>
+
+<p>More commonly found are examples of weak AI, which are now being used in everyday life and being implemented by non-IT industries.</p>
+
+<p>Voice assistants, such as Google Assistant or Siri from Apple, are trained machines that can answers to queries by voice activation. It is able to tell you what is next on your calendar, find a recipe for dinner or remind you of when to leave home so you are not late for an appointment. <br>
+
+This kind of artificial intelligence is not able to outperform what it is trained for. For example, you can ask your virtual assistant to start playing your music playlist every day at 7pm and it will do as told. Although, even if you have the routine of playing music every day at 7pm, the machine will not learn from that and set a task for itself without you asking for it. This is a simple but useful example to clarify the difference between strong and weak artificial intelligence.</p>
+
+<p>The tasks each machine with weak AI are trained to do are limited but it still able to make great impact in a lot of areas it is applied to.</p>
+
+<p>For example, AI in healthcare. It is well known that machines trained to identify diseases through image analysis are used in Radiology and greatly contribute to the prognosis of breast cancer. A recent study has shown that AI can evaluate a mammography screening in the same level of an average breast radiologist. </p>
+
+<p>In coming years, we can expect to see great developments in Natural Language Processing and AI Analytics. This will broaden the horizons for machine learning capabilities.<br>
+In Analytics, the field of AI predictive analyses is projected to receive investments of 11 billion in 2022. The outcome of those investments in projects and studies could be used to improve medical diagnosis, people’s security, read customer behaviour and help us tackle the changing face of climate. </p>
+
+<p>Advancements in Natural Language Processing could let us start reading books tailored to our preferences of number of pages, written style, genre and even name and relationship of characters. And this is due the success of better language modelling such as GPT-2 from OpenAI and the abilities it equips developers with.<br>
+Similar algorithms are already being used to create music, for instance MuseNet, also from OpenAI.</p>
+
+<p>We expect to see advance in AI voice assistants that will replace the first line of contact in call centres. AI will be capable to understand context and reply as natural as another human, different from automated recorded messages used today. </p>
+
+<p>Regarding security, more countries could choose to follow China’s and Russia’s implementation of facial recognition to make our cities safer by installing cameras capable of alerting the police when a wanted person is identified on the streets. On the same trend, building entrance cameras could start taking facial recognition to let residents in and out or our cars could have a fingerprint check before unlocking the doors.</p> 
+
+<p>The increase of possible things to do with AI will impact our everyday lives and cities. We think that the more present AI is, the more light is shine upon the discussion of privacy and security of our data. <br>
+Cybersecurity threats are currently difficult to be assessed by artificial intelligence and ground-breaking discoveries in this field would lead to new milestones in AI development and applications.</p>
+
+<p>It is clear that the implementation of AI will impact jobs in the next decade. Advanced chatbots to replace call centre attendants is an example. <br>
+A Study done by McKinsey Global Institute indicates that by 2030, between 3% and 14% of the global workforce might need to acquire new skills or find a different work.<br>
+Living in a time which information is easily accessible will prove to be very beneficial for us during this time of change. We can find prediction of growth and demand for our jobs. </p>
+
+<p>With this data already available, companies should be taking an informed decision to promote further training for their workers and governments to providing more financial incentive towards education and community access to technologies.
+This is what will differentiate the AI revolution from the 18th century manufacturing revolution and, if done in a planned manner, every member of our society should benefit from it.</p>
